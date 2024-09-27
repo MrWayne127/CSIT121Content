@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f9f0;
+    color: #333333;
+}
+
+header {
+    background-color: #2d5b2e;
+    color: #ffffff;
+    text-align: center;
+}
+
+section {
+    background-color: #e0f2e0;
+}
+
+h3 {
+    color: #2d5b2e;
+}
+
+#aboutus h3 {
+    color: #0fba56;
+}
+
+p {
+    line-height: 1.5;
+}
+
+
+a:link {
+    color: #2d5b2e;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #8B4513;
+}
+
+a:hover {
+    color: #228B22;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #02351a;
+
+}
+
+.companyName {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+#big {
+    font-size: 22px;
+    font-weight: 700;
+    background-color: #b8e5b8;
+    border: 2px solid #02351a;
+    text-align: center;
+
+}
+
+footer {
+    background-color: #02351a;
+    color: #ffffff;
+}
